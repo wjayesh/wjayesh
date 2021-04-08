@@ -1,5 +1,7 @@
 # Hi, I'm Jayesh Sharma
 
+![twitter-follower](https://img.shields.io/twitter/follow/wjayesh?style=social) ![github-sponsors](https://img.shields.io/github/sponsors/wjayesh?label=GitHub%20Sponsors&style=social) ![img](https://img.shields.io/youtube/channel/subscribers/UCDeVyD6ZB7K-xHQBUZ-UxCA?label=YouTube%20Subscribers&style=social) ![img](https://img.shields.io/youtube/channel/views/UCDeVyD6ZB7K-xHQBUZ-UxCA?label=Total%20views%20on%20my%20YouTube%20Channel&style=social)
+
 <p align="center" style="margin: -20px 0 30px">
   <a href="https://www.linkedin.com/in/wjayesh/" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
