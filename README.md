@@ -35,6 +35,7 @@ I am a pre-final year student at IIT Bhubaneswar and a keen cloud enthusiast. I 
 [<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/instagram.png" />][instagram]
 
 
+<br />
 
 ## 🎥 Latest YouTube Videos
 
