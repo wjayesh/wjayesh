@@ -46,7 +46,11 @@ I am a pre-final year student at IIT Bhubaneswar and a keen cloud enthusiast. I 
 </p>
 
 <!-- YOUTUBE:START -->
-
+- [Companion App: Mental Health Tracker Walkthrough](https://www.youtube.com/watch?v=AdQA9cpkRCk)
+- [Introduction to Cloud Native and CNCF](https://www.youtube.com/watch?v=1m5aqyFQdEM)
+- [Imperative commands and YAML spec for Kubernetes Objects](https://www.youtube.com/watch?v=7ECdMHtDbko)
+- [Overview of Arguments, Volumes and Shell in Containers](https://www.youtube.com/watch?v=TPm4pztVRs8)
+- [Course Overview | Learn to create apps on Kubernetes](https://www.youtube.com/watch?v=LGHNDuyOmkY)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
