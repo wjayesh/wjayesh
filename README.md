@@ -6,10 +6,10 @@
   <a href="https://www.linkedin.com/in/wjayesh/" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
   </a>
-  &nbsp;&nbsp;
+<!--   &nbsp;&nbsp;
   <a href="https://twitter.com/WJayesh" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
-  </a>
+  </a> -->
   &nbsp;&nbsp;
   <a href="mailto:wjayesh@outlook.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
