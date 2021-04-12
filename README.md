@@ -1,4 +1,4 @@
-# Hi, I'm Jayesh Sharma
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jayesh Sharma
 
 ![twitter-follower](https://img.shields.io/twitter/follow/wjayesh?style=social) ![github-sponsors](https://img.shields.io/github/sponsors/wjayesh?label=GitHub%20Sponsors&style=social) ![img](https://img.shields.io/youtube/channel/subscribers/UCDeVyD6ZB7K-xHQBUZ-UxCA?label=YouTube%20Subscribers&style=social) ![img](https://img.shields.io/youtube/channel/views/UCDeVyD6ZB7K-xHQBUZ-UxCA?label=Total%20views%20on%20my%20YouTube%20Channel&style=social)
 
@@ -25,6 +25,28 @@ I am a pre-final year student at IIT Bhubaneswar and a keen cloud enthusiast. I 
   <br />
   <br />
 </div>
+
+---
+
+### 🎥 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- 
+<!-- YOUTUBE:END -->
+
+▶ [more videos...][youtube]
+
+---
+
+### 📑 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+▶ [more blog posts...][blog]
+
+---
 
 ## Previously worked at:
 
