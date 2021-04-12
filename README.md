@@ -46,7 +46,7 @@ I am a pre-final year student at IIT Bhubaneswar and a keen cloud enthusiast. I 
 </p>
 
 <!-- YOUTUBE:START -->
-- 
+
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
@@ -55,9 +55,13 @@ I am a pre-final year student at IIT Bhubaneswar and a keen cloud enthusiast. I 
 
 ## 📑 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- DEV-BLOG-POST-LIST:START -->
 
-<!-- BLOG-POST-LIST:END -->
+<!-- DEV-BLOG-POST-LIST:END -->
+
+<!-- MEDIUM-BLOG-POST-LIST:START -->
+
+<!-- MEDIUM-BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
 
