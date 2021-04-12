@@ -33,8 +33,10 @@ I am a pre-final year student at IIT Bhubaneswar and a keen cloud enthusiast. I 
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/instagram.png" />][instagram]
+[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />][medium]
 
 
+<br />
 <br />
 
 ## 🎥 Latest YouTube Videos
@@ -82,5 +84,6 @@ Flutter with Firebase or Azure
 [youtube]: https://www.youtube.com/channel/UCDeVyD6ZB7K-xHQBUZ-UxCA
 [linkedin]: https://linkedin.com/in/wjayesh
 [instagram]: https://www.instagram.com/wjayesh_
+[medium]: https://wjayesh.medium.com/
 
 
