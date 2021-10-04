@@ -46,11 +46,11 @@ I am a pre-final year student at IIT Bhubaneswar and a keen cloud enthusiast. I 
 </p>
 
 <!-- YOUTUBE:START -->
+- [API Gateways - Building Your Own | Microservices Architecture](https://www.youtube.com/watch?v=JGGx8QbvPrs)
+- [API Gateways - An Introduction | Microservices Architecture](https://www.youtube.com/watch?v=7kNuTu3EJQk)
 - [Introduction to Microservices Architecture](https://www.youtube.com/watch?v=5cWyI3qD1S8)
 - [Companion App: Mental Health Tracker Walkthrough](https://www.youtube.com/watch?v=AdQA9cpkRCk)
 - [Introduction to Cloud Native and CNCF](https://www.youtube.com/watch?v=1m5aqyFQdEM)
-- [Imperative commands and YAML spec for Kubernetes Objects](https://www.youtube.com/watch?v=7ECdMHtDbko)
-- [Overview of Arguments, Volumes and Shell in Containers](https://www.youtube.com/watch?v=TPm4pztVRs8)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
