@@ -46,11 +46,11 @@ I am a pre-final year student at IIT Bhubaneswar and a keen cloud enthusiast. I 
 </p>
 
 <!-- YOUTUBE:START -->
+- [API Gateways - Authentication in Kong on AKS](https://www.youtube.com/watch?v=4QxqU5Oeu6E)
 - [API Gateways - Building Your Own | Microservices Architecture](https://www.youtube.com/watch?v=JGGx8QbvPrs)
 - [API Gateways - An Introduction | Microservices Architecture](https://www.youtube.com/watch?v=7kNuTu3EJQk)
 - [Introduction to Microservices Architecture](https://www.youtube.com/watch?v=5cWyI3qD1S8)
 - [Companion App: Mental Health Tracker Walkthrough](https://www.youtube.com/watch?v=AdQA9cpkRCk)
-- [Introduction to Cloud Native and CNCF](https://www.youtube.com/watch?v=1m5aqyFQdEM)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
