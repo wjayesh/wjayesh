@@ -60,7 +60,7 @@ I am a pre-final year student at IIT Bhubaneswar and a keen cloud enthusiast. I 
 ## 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Putting an ML model into production using Feast and Kubeflow on Azure (Part I)](https://dev.to/wjayesh/putting-an-ml-model-into-production-using-feast-and-kubeflow-on-azure-part-i-3i33)
+- [Putting an ML model into production using Feast and Kubeflow on Azure &lpar;Part I&rpar;](https://dev.to/wjayesh/putting-an-ml-model-into-production-using-feast-and-kubeflow-on-azure-part-i-3i33)
 - [Building distributed apps using Dapr, locally and on Azure](https://medium.com/c-sharp-progarmming/building-distributed-apps-using-dapr-locally-and-on-azure-65316a2f259?source=rss-18ed07d706ef------2)
 - [Health Check for Kubernetes | PCommunityBridge Program](https://wjayesh.medium.com/health-check-for-kubernetes-pcommunitybridge-program-55e8517ece98?source=rss-18ed07d706ef------2)
 - [Flutter + Azure : Authentication with AD B2C](https://medium.com/flutter-community/flutter-azure-authentication-with-ad-b2c-8b76c81dd48e?source=rss-18ed07d706ef------2)
