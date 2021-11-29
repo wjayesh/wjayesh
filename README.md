@@ -16,7 +16,7 @@
   </a>
 </p> -->
 
-I am a pre-final year student at IIT Bhubaneswar and a keen cloud enthusiast. I love tinkering with new technologies and building challenging and novel projects. I am a Microsoft Learn Student Ambassador and find happiness in sharing my knowledge through the medium of [articles](https://medium.com/@wjayesh) and [tech talks](https://www.youtube.com/channel/UCDeVyD6ZB7K-xHQBUZ-UxCA)! 
+I am a final year student at IIT Bhubaneswar and a keen cloud enthusiast. I love tinkering with new technologies and building challenging and novel projects. I am a Microsoft Learn Student Ambassador and find happiness in sharing my knowledge through the medium of [articles](https://medium.com/@wjayesh) and [tech talks](https://www.youtube.com/channel/UCDeVyD6ZB7K-xHQBUZ-UxCA)! 
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjayesh&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
