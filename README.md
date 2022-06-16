@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jayesh Sharma
+# Hi 👋, I'm Jayesh Sharma
 
 ![twitter-follower](https://img.shields.io/twitter/follow/wjayesh?style=social) ![github-sponsors](https://img.shields.io/github/sponsors/wjayesh?label=GitHub%20Sponsors&style=social) ![img](https://img.shields.io/youtube/channel/subscribers/UCDeVyD6ZB7K-xHQBUZ-UxCA?label=YouTube%20Subscribers&style=social) ![img](https://img.shields.io/youtube/channel/views/UCDeVyD6ZB7K-xHQBUZ-UxCA?label=Total%20views%20on%20my%20YouTube%20Channel&style=social)
 
@@ -16,7 +16,7 @@
   </a>
 </p> -->
 
-I am a final year student at IIT Bhubaneswar and a keen cloud enthusiast. I love tinkering with new technologies and building challenging and novel projects. I am a Microsoft Learn Student Ambassador and find happiness in sharing my knowledge through the medium of [articles](https://medium.com/@wjayesh) and [tech talks](https://www.youtube.com/channel/UCDeVyD6ZB7K-xHQBUZ-UxCA)! 
+I build and manage the infrastructure for running machine learning pipelines, over at [ZenML](https://zenml.io) I'm and a keen cloud enthusiast. I love tinkering with new technologies and building challenging and novel projects.  Sharing my knowledge through the medium of [articles](https://medium.com/@wjayesh) and [tech talks](https://www.youtube.com/channel/UCDeVyD6ZB7K-xHQBUZ-UxCA) is something I enjoy most! 
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjayesh&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
@@ -73,6 +73,8 @@ I am a final year student at IIT Bhubaneswar and a keen cloud enthusiast. I love
 
 ## Previously worked at:
 
+### Publicis Sapient, Software Engineer Intern
+* Building a POC for fault tolerance using AWS App Mesh
 ### CoreDNS, CNCF Mentee for CommunityBridge program
 * [Repository](https://github.com/wjayesh/coredns-healthcheck/tree/main/pkg)
 ### Crio.Do
@@ -80,12 +82,12 @@ I am a final year student at IIT Bhubaneswar and a keen cloud enthusiast. I love
 * [Student Developer](https://github.com/wjayesh/csod-2019-wjayesh)
 
 ## Preferred Stacks
-### Mobile Development
-Flutter with Firebase or Azure
+### Cloud Native
+Terraform, Kubernetes, Helm, Go, AWS/Azure/GCP, MLOps tools
 #### Repositories
-1. [Companion](https://github.com/wjayesh/companion-beta) (Beta) 
-2. [Flutter Streams POC](https://github.com/wjayesh/companion-streams)
-3. [Productivity App](https://github.com/wjayesh/prod_app)
+1. [Production ML](https://github.com/wjayesh/production_ml)
+2. [MLflow Tracking Server](https://github.com/wjayesh/mlflow-tracking-server)
+3. [Dapr Distributed Calendar](https://github.com/wjayesh/dapr-distributed-calendar)
 
 [blog]: https://wjayesh.medium.com
 [twitter]: https://twitter.com/wjayesh
