@@ -16,7 +16,7 @@
   </a>
 </p> -->
 
-I build and manage the infrastructure for running machine learning pipelines, over at [ZenML](https://zenml.io) I'm and a keen cloud enthusiast. I love tinkering with new technologies and building challenging and novel projects.  Sharing my knowledge through the medium of [articles](https://medium.com/@wjayesh) and [tech talks](https://www.youtube.com/channel/UCDeVyD6ZB7K-xHQBUZ-UxCA) is something I enjoy most! 
+I build and manage the infrastructure for running machine learning pipelines, over at [ZenML](https://zenml.io). I'm a keen cloud enthusiast and I love tinkering with new technologies and building challenging and novel projects. Sharing my knowledge through the medium of [articles](https://medium.com/@wjayesh) and [tech talks](https://www.youtube.com/channel/UCDeVyD6ZB7K-xHQBUZ-UxCA) is something I also thoroughly enjoy! 
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjayesh&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
