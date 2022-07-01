@@ -60,11 +60,11 @@ I build and manage the infrastructure for running machine learning pipelines, ov
 ## 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Not just another MLflow on Kubernetes article](https://dev.to/wjayesh/not-just-another-mlflow-on-kubernetes-article-2522)
+- [Explained Simply: AWS IAM and Kubernetes RBAC](https://dev.to/wjayesh/explained-simply-aws-iam-and-kubernetes-rbac-1hja)
+- [Explained Simply: AWS IAM and Kubernetes RBAC](https://wjayesh.medium.com/explained-simply-aws-iam-and-kubernetes-rbac-f60fa6b4f2af?source=rss-18ed07d706ef------2)
 - [Putting an ML model into production using Feast and Kubeflow on Azure &lpar;Part I&rpar;](https://dev.to/wjayesh/putting-an-ml-model-into-production-using-feast-and-kubeflow-on-azure-part-i-3i33)
 - [Building distributed apps using Dapr, locally and on Azure](https://medium.com/c-sharp-progarmming/building-distributed-apps-using-dapr-locally-and-on-azure-65316a2f259?source=rss-18ed07d706ef------2)
-- [Health Check for Kubernetes | PCommunityBridge Program](https://wjayesh.medium.com/health-check-for-kubernetes-pcommunitybridge-program-55e8517ece98?source=rss-18ed07d706ef------2)
-- [Flutter + Azure : Authentication with AD B2C](https://medium.com/flutter-community/flutter-azure-authentication-with-ad-b2c-8b76c81dd48e?source=rss-18ed07d706ef------2)
-- [How To Get Started With Programming, Part I](https://wjayesh.medium.com/how-to-get-started-with-programming-part-i-5b4eae12d8e3?source=rss-18ed07d706ef------2)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
