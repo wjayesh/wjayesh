@@ -21,7 +21,7 @@ I build and manage the infrastructure for running machine learning pipelines, ov
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjayesh&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
-  <small>Languages used in my public repos - Java being my primary and I love Dart and Go!</small>
+  <small>Languages used in my public repos</small>
   <br />
   <br />
 </div>
