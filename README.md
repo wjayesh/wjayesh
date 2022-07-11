@@ -46,11 +46,11 @@ I build and manage the infrastructure for running machine learning pipelines, ov
 </p>
 
 <!-- YOUTUBE:START -->
+- [Road to MLOps from a DevOps perspective](https://www.youtube.com/watch?v=HR0jyr9yRs4)
 - [Learn How To Secure A Simple Web App - Crio Weekend Workshop](https://www.youtube.com/watch?v=QqKr07thtAg)
 - [Build A Simple Web Application - Weekend Workshop](https://www.youtube.com/watch?v=H9NH-o07g7I)
 - [Azure API Management Service - Securing apps with Azure AD](https://www.youtube.com/watch?v=4rwMRL-DrUs)
 - [API Gateways - Authentication in Kong on AKS](https://www.youtube.com/watch?v=4QxqU5Oeu6E)
-- [API Gateways - Building Your Own | Microservices Architecture](https://www.youtube.com/watch?v=JGGx8QbvPrs)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
