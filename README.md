@@ -46,11 +46,11 @@ I build and manage the infrastructure for running machine learning pipelines, ov
 </p>
 
 <!-- YOUTUBE:START -->
+- [Data Annotation with V7: Product Review and Walkthrough](https://www.youtube.com/watch?v=hSnLt6OLuhc)
 - [Hands-on with DVC | Data Versioning in MLOps](https://www.youtube.com/watch?v=efnw2QvlhZM)
 - [Building your MLOps Stack | Components, Tools and Learning Resources](https://www.youtube.com/watch?v=FWHACqfl974)
 - [Road to MLOps from a DevOps perspective](https://www.youtube.com/watch?v=HR0jyr9yRs4)
 - [Learn How To Secure A Simple Web App - Crio Weekend Workshop](https://www.youtube.com/watch?v=QqKr07thtAg)
-- [Build A Simple Web Application - Weekend Workshop](https://www.youtube.com/watch?v=H9NH-o07g7I)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
