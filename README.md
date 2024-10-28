@@ -60,7 +60,7 @@ I build and manage the infrastructure for running machine learning pipelines, ov
 ## 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a voice-enabled Python FastAPI app using OpenAI’s Realtime API](https://wjayesh.medium.com/building-a-voice-enabled-python-fastapi-app-using-openais-realtime-api-bfdf2947c3e4?source=rss-18ed07d706ef------2)
+- [Building a voice-enabled Python FastAPI app using OpenAI’s Realtime API](https://medium.com/thedeephub/building-a-voice-enabled-python-fastapi-app-using-openais-realtime-api-bfdf2947c3e4?source=rss-18ed07d706ef------2)
 - [How Autonomous Agents Work: The Concept and Its LangChain Implementation](https://wjayesh.medium.com/how-autonomous-agents-work-the-concept-and-its-langchain-implementation-e1a77f612427?source=rss-18ed07d706ef------2)
 - [Not just another MLflow on Kubernetes article](https://dev.to/wjayesh/not-just-another-mlflow-on-kubernetes-article-2522)
 - [Explained Simply: AWS IAM and Kubernetes RBAC](https://dev.to/wjayesh/explained-simply-aws-iam-and-kubernetes-rbac-1hja)
