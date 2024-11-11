@@ -46,11 +46,11 @@ I build and manage the infrastructure for running machine learning pipelines, ov
 </p>
 
 <!-- YOUTUBE:START -->
+- [Story Weaver: A multiplayer game built with mahilo!](https://www.youtube.com/watch?v=1lGayL6X47E)
 - [mahilo with the new OpenAI Realtime API demo](https://www.youtube.com/watch?v=SoWUZUjhhq8)
 - [mahilo first demo: a multi-agent human in the loop AI agent framework](https://www.youtube.com/watch?v=6RjKJwzsdWY)
 - [Data Annotation with V7: Product Review and Walkthrough](https://www.youtube.com/watch?v=hSnLt6OLuhc)
 - [Hands-on with DVC | Data Versioning in MLOps](https://www.youtube.com/watch?v=efnw2QvlhZM)
-- [Building your MLOps Stack | Components, Tools and Learning Resources](https://www.youtube.com/watch?v=FWHACqfl974)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
