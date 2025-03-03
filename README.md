@@ -46,11 +46,11 @@ I build and manage the infrastructure for running machine learning pipelines, ov
 </p>
 
 <!-- YOUTUBE:START -->
+- [mahilo UI demo](https://www.youtube.com/watch?v=DIn50bhDUJc)
 - [hitchcock demo - team lossfunk bengaluru](https://www.youtube.com/watch?v=O0bswr-46kg)
 - [Revolutionizing Property Renting through AI Agents | RentMate AI Demo](https://www.youtube.com/watch?v=FkxD_9sF5po)
 - [Story Weaver: A multiplayer game built with mahilo!](https://www.youtube.com/watch?v=1lGayL6X47E)
 - [mahilo with the new OpenAI Realtime API demo](https://www.youtube.com/watch?v=SoWUZUjhhq8)
-- [mahilo first demo: a multi-agent human in the loop AI agent framework](https://www.youtube.com/watch?v=6RjKJwzsdWY)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
